@@ -8,9 +8,9 @@ API LLM compatible OpenAI, opérée par Mazlo, société française. Chaque clé
 
 Vous changez l'URL de base, vous gardez votre SDK.
 
-- Site : [bretelle.eu](https://bretelle.eu)
-- Tarifs : [bretelle.eu/tarifs](https://bretelle.eu/tarifs)
-- Vérificateur de souveraineté : [bretelle.eu/verifier](https://bretelle.eu/verifier)
+- Site : [bretelle.eu](https://bretelle.eu?utm_source=github&utm_medium=org_profile&utm_campaign=bretelleai)
+- Tarifs : [bretelle.eu/tarifs](https://bretelle.eu/tarifs?utm_source=github&utm_medium=org_profile&utm_campaign=bretelleai)
+- Vérificateur de souveraineté : [bretelle.eu/verifier](https://bretelle.eu/verifier?utm_source=github&utm_medium=org_profile&utm_campaign=bretelleai)
 - Contact : contact@bretelle.eu
 
 <a id="english"></a>
@@ -21,7 +21,7 @@ An OpenAI-compatible LLM API operated by Mazlo, a French company. Each key sets 
 
 Change the base URL, keep your SDK.
 
-- Site: [bretelle.eu/en](https://bretelle.eu/en)
-- Pricing: [bretelle.eu/en/pricing](https://bretelle.eu/en/pricing)
-- Sovereignty checker: [bretelle.eu/en/check](https://bretelle.eu/en/check)
+- Site: [bretelle.eu/en](https://bretelle.eu/en?utm_source=github&utm_medium=org_profile&utm_campaign=bretelleai)
+- Pricing: [bretelle.eu/en/pricing](https://bretelle.eu/en/pricing?utm_source=github&utm_medium=org_profile&utm_campaign=bretelleai)
+- Sovereignty checker: [bretelle.eu/en/check](https://bretelle.eu/en/check?utm_source=github&utm_medium=org_profile&utm_campaign=bretelleai)
 - Contact: contact@bretelle.eu
